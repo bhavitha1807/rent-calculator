@@ -1,4 +1,4 @@
-#rent calculator in python - @codingwithsagar
+#rent calculator in python 
 
 ## Inputs we need from the user
 # Total rent
